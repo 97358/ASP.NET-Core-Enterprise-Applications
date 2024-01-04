@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.deps.json
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.dll
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.pdb
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.AssemblyInfo.cs
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.dll
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.pdb

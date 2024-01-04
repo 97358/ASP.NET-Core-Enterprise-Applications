@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CopyComplete
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb

@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.deps.json
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfo.cs
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CopyComplete
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\Users\User\Downloads\8A1C9C9B-2814-4B40-9201-56B2866BDFF9-11 - Deploy via Docker\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.pdb
