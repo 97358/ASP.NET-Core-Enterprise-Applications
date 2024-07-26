@@ -1,4 +1,4 @@
-# ASP.NET-Core-Enterprise-Applications #
+# ASP.NET Core Enterprise Applications #
 
 ##  Enterprise Applications. ##
 
