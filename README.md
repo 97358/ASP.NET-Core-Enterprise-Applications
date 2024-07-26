@@ -2,7 +2,7 @@
 
 ##  Enterprise Applications. ##
 
-📝 **Nota:** Demonstração de Enterprise Applications.
+📝 **Nota:** Demonstração de uma Enterprise Applications.
 
 🔧 **Versão**
 
