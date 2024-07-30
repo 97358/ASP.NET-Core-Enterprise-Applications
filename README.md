@@ -4,7 +4,7 @@
 
 📝 **Nota:** Demonstração de uma Enterprise Applications.
 
-🔧 **Versão:** 2.2.0
+🔧 **Versão:** 3.1.4
 
 ⚠️ **Atenção:** Destinado exclusivamente para fins de estudo.
 
